@@ -6,8 +6,8 @@
   
 <div>
   <a href= "https://github.com/Lucas-HTJV">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Lucas-HTJV&show_icons=true&theme=tokyonight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-HTJV&hide_progress=true&theme=tokyonight"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Lucas-HTJV&show_icons=true&theme=tokyonight"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-HTJV&hide_progress=true&theme=tokyonight"/>
 </div>
 
 <div style="display: incline_block"><br>
