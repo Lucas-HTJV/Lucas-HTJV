@@ -2,7 +2,6 @@
 - 👀 Estou Procurando oportunidade como Desenvolvedor
 - 🌱 Estou Cursando Tecnólogo de Análise e Desenvolvimento de sistemas 
 - 📫 Moro na Região de São Paulo(SP)
-- 😄 Pronomes: Ele/Dele
   
 <div>
   <a href= "https://github.com/Lucas-HTJV">
