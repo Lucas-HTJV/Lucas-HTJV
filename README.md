@@ -22,7 +22,7 @@
 <div>
 <a href = "lucaslimadesousa5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"_target="_blank">
 <a href = "https://wa.me/qr/GJYKCPOVHASKF1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"_target="_blank">
-<a href = "[https://www.instagram.com/lucas_lima07zl/profilecard/?igsh=ajZnaWI2YjBkZDNs](https://www.instagram.com/dev_lucas07?igsh=MTJ0amNhaDZ3bmRocw==)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"_target="_blank">
+<a href = "https://www.instagram.com/dev_lucas07?igsh=MTJ0amNhaDZ3bmRocw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"_target="_blank">
 
    
 </div>
