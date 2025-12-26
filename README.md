@@ -18,7 +18,6 @@
   <img align="center"alt="Lucas-SQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 </div>         
 
-####
 <div>
 <a href = "devlucaslimadesousa07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"_target="_blank">
 <a href = "https://wa.me/qr/GJYKCPOVHASKF1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"_target="_blank">
