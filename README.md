@@ -1,10 +1,13 @@
 <h2 align="center">👋 Olá! Me chamo Lucas</h2>
 
 <p align="center">
-💻 Estou procurando oportunidade como Desenvolvedor <br>
-🌱 Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
-📍 São Paulo - SP
+💻 Desenvolvedor com experiência prática em sistemas e automação<br>
+🧠 Suporte técnico em plataformas de e-commerce<br>
+🎨 Figma – SENAI<br>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (finalizando)<br>
+📍 São Paulo – SP · Disponível para projetos remotos
 </p>
+
 
 ---
 
