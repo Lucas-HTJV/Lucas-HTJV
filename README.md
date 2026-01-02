@@ -11,8 +11,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucas-HTJV&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-HTJV&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Lucas-HTJV&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Lucas GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-HTJV&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 ---
