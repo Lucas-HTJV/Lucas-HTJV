@@ -1,12 +1,11 @@
 <h2 align="center">👋 Olá! Me chamo Lucas</h2>
 
 <p align="center">
-💻 Desenvolvedor com experiência prática em sistemas e automação<br>
-🧠 Suporte técnico em plataformas de e-commerce<br>
-🎨 Figma – SENAI<br>
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (finalizando)<br>
-📍 São Paulo – SP · Disponível para projetos remotos
+💻 Desenvolvedor focado em sistemas e automação · 🧠 Suporte técnico em e-commerce<br>
+🎨 Figma (SENAI) · 🎓 Tecnólogo em ADS (finalizando)<br>
+📍 São Paulo – SP · Projetos remotos
 </p>
+
 
 
 ---
