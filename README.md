@@ -2,7 +2,8 @@
 
 <p align="center">
 💻 Desenvolvedor focado em sistemas e automação · 🧠 Suporte técnico em e-commerce<br>
-🎨 Figma (SENAI) · 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (finalizando)<br>
+🎨 Figma (SENAI) · 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas(UNIP)
+  · Graduação em Sistemas da Informação(IMPACTA)<br>
 📍 São Paulo – SP · Disponível para projetos remotos
 </p>
 
