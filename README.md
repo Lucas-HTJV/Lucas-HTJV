@@ -13,7 +13,8 @@
 
 <p align="center">
 💻 Developer focused on systems and automation · 🧠 Technical support in e-commerce platforms<br>
-🎨 Figma (SENAI) · 🎓 Technologist in Systems Analysis and Development (in progress)<br>
+🎨 Figma (SENAI) · 🎓 Technologist in Systems Analysis and Development(UNIP)
+   · Bachelor's degree in Information Systems(IMPACTA)<br>
 📍 São Paulo, Brazil · Open to remote opportunities
 </p>
 
