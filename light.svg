@@ -15,7 +15,7 @@
   <circle cx="20" cy="17.0" r="6" fill="#F87171"/>
   <circle cx="40" cy="17.0" r="6" fill="#FBBF24"/>
   <circle cx="60" cy="17.0" r="6" fill="#34D399"/>
-  <text x="590.0" y="21.0" text-anchor="middle" font-size="12" fill="#475569">profile.sh --live</text>
+  <text x="590.0" y="21.0" text-anchor="middle" font-size="12" fill="#475569">Profile</text>
   <line x1="0" y1="34" x2="1180" y2="34" stroke="#E2E8F0" stroke-width="1"/>
 
   <!-- divider between panels -->
