@@ -84,7 +84,7 @@
     <text x="1152" y="222" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#F8FAFC" text-anchor="end">Open to remote work</text>
     <text x="476" y="245" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#94A3B8">ToolChain</text>
     <line x1="559.6" y1="241" x2="1007.2" y2="241" stroke="#334155" stroke-width="1" stroke-dasharray="1.5,3"/>
-    <text x="1152" y="245" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#F8FAFC" text-anchor="end">VS Code, Git, Figma</text>
+    <text x="1152" y="245" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#F8FAFC" text-anchor="end">VS Code, Git, Figma, Visual Studio 2026</text>
     <text x="476" y="268" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#94A3B8">Core.Lang</text>
     <line x1="559.6" y1="264" x2="971.2" y2="264" stroke="#334155" stroke-width="1" stroke-dasharray="1.5,3"/>
     <text x="1152" y="268" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#F8FAFC" text-anchor="end">Python, C, C++, Java, C#</text>
